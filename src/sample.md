@@ -14,7 +14,7 @@ style: default
 
 ## Contact
 
-Nguyễn Trường An\
+Nguyễn Trường An, PhD\
 <truong-an.nguyen@inrae.fr>\
 EcoFlowS, INRAe, 5 Rue de la Doua, 69100 Villeurbanne\
 [Phone: +33 662 04 98 13](tel:0662049813)
@@ -59,39 +59,39 @@ Studying the evolution of carbonate system at Loire River by using high resoluti
 
 Institute of Environmental Geosciences (IGE), France. 
 
-Water quality monitoring (nutrients, carbon, phytoplankton, greenhouse gases) and develop a biogeochemical model (1D reactive transport) for tropical estuaries.
+*Water quality monitoring (nutrients, carbon, phytoplankton, greenhouse gases) and develop a biogeochemical model (1D reactive transport) for tropical estuaries.*
 
 #### Master internship (6 months) `02/2018-07/2018`
 
 Institute of Environmental Geosciences (IGE), France.
 
-Implementation of a nutrient dynamics model for the Saigon River using C language.
+*Implementation of a nutrient dynamics model for the Saigon River using C language.*
 
 #### Principal Investigator (6 months) `12/2016-08/2017`
 
-Young Investigator Project, HCMUT, Vietnam: Study of nutrient pollution removal by constructed wetlands.
+Young Investigator Project, HCMUT, Vietnam
 
-Design of a pilot scale constructed wetland and analysis of water samples.
+*Design of a pilot scale constructed wetland and analysis of water samples.*
 
 #### Lab technician (18 months) `12/2015-06/2017`
 
 Asian Center for Water Research (CARE-RESCIF), Vietnam.
 
-Water sampling and operation of ICP-OES analyzer, TOC-V.
+*Water sampling and operation of ICP-OES analyzer, TOC-V.*
 
 #### Bachelor internship (6 months) `06/2015-12/2015`
 
-In a project at HCMUT (Vietnam): development of "passive sampling" for the analysis of antibiotics in river.
+Project: development of "passive sampling" for the analysis of antibiotics in river.
 
-Sampling and pretreatment of samples for antibiotics measurement.
+*Sampling and pretreatment of samples for antibiotics measurement.*
 
 ## Competences
 
-### Scientific computing
+### Numerical
 
 Extensive knowledge in Python, C & C++ languages for water quality modelling.
 
-### Data analysis
+### Data analysis Visualization
 
 Data analysis and statistical analysis with Python and R on large datasets.
 
@@ -99,11 +99,11 @@ Mapping and spatial analysis with QGIS and ArcGIS.
 
 ### Languages
 
-Vietnamese (native)
+**Vietnamese** (native)
 
-English (proficient, level B2)
+**English** (proficient, level B2)
 
-French (basic, level B1)
+**French** (basic, level B1)
 
 
 ## Publications
