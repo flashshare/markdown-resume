@@ -12,4 +12,5 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: output
+          overwrite: true
           path: output/
