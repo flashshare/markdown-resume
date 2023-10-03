@@ -141,23 +141,23 @@ Mapping and spatial analysis with QGIS and ArcGIS.
 
 ### Conferences
 
-1.T.A. Nguyen, et al., (2022). Spatial and temporal variation of greenhouse gas emissions in an urbanized tropical estuary (the Saigon River, Vietnam). ECSA 59 Using the best scientific knowledge for the sustainable management of estuaries and coastal seas, September 5-8, 2022, Kursaal, San Sebastian, Spain. Poster
+**1.**T.A. Nguyen, et al., (2022). Spatial and temporal variation of greenhouse gas emissions in an urbanized tropical estuary (the Saigon River, Vietnam). ECSA 59 Using the best scientific knowledge for the sustainable management of estuaries and coastal seas, September 5-8, 2022, Kursaal, San Sebastian, Spain. Poster
 
-2.T.A. Nguyen, et al., (2022). Eutrophication management scenarios in the Saigon River by using C-GEM, an estuarine biogeochemical model. ECSA 59 Using the best scientific knowledge for the sustainable management of estuaries and coastal seas, September 5-8, 2022, Kursaal, San Sebastian, Spain. Poster
+**2.**T.A. Nguyen, et al., (2022). Eutrophication management scenarios in the Saigon River by using C-GEM, an estuarine biogeochemical model. ECSA 59 Using the best scientific knowledge for the sustainable management of estuaries and coastal seas, September 5-8, 2022, Kursaal, San Sebastian, Spain. Poster
 
-3.T.A. Nguyen, et al., (2022). Impact of anthropogenic inputs on greenhouse gas emissions in the tropical Saigon River Estuary. International Symposium on Water Sustainability & Green Technologies, November 25-26, 2022, Ho Chi Minh City, Vietnam. Poster
+**3.**T.A. Nguyen, et al., (2022). Impact of anthropogenic inputs on greenhouse gas emissions in the tropical Saigon River Estuary. International Symposium on Water Sustainability & Green Technologies, November 25-26, 2022, Ho Chi Minh City, Vietnam. Poster
 
-4.T.A. Nguyen, et al., (2022). Modeling the seasonal nutrients dynamics and phytoplankton development in Saigon River Estuary, Vietnam. International Symposium on Ecohydraulics, July 4-8, 2022, Lyon, France. Poster
+**4.**T.A. Nguyen, et al., (2022). Modeling the seasonal nutrients dynamics and phytoplankton development in Saigon River Estuary, Vietnam. International Symposium on Ecohydraulics, July 4-8, 2022, Lyon, France. Poster
 
-5.T.A. Nguyen, et al., (2020). Modelling scenarios by C-GEM, an estuarine biogeochemical model. International Conference on Water, Megacities and Global Change, December 1-4, 2020, Paris (Web-Seminar), Vietnam. Oral
+**5.**T.A. Nguyen, et al., (2020). Modelling scenarios by C-GEM, an estuarine biogeochemical model. International Conference on Water, Megacities and Global Change, December 1-4, 2020, Paris (Web-Seminar), Vietnam. Oral
 
-6.T.A. Nguyen, et al., (2020). Evaluating estuarine responses to modification of nutrient loads from megacity by a generic reactive-transport model. International Symposium on Ecohydraulics, December 23-24, 2019, Lyon, France. Oral
+**6.**T.A. Nguyen, et al., (2020). Evaluating estuarine responses to modification of nutrient loads from megacity by a generic reactive-transport model. International Symposium on Ecohydraulics, December 23-24, 2019, Lyon, France. Oral
 
-7.T.A. Nguyen, et al., (2019). Self‐purification capacity of a tropical estuary using a generic reactive-transport estuarine model. Green Technologies for Sustainable Water, December 1-5, 2019, Ho Chi Minh City, Vietnam. Poster
+**7.**T.A. Nguyen, et al., (2019). Self‐purification capacity of a tropical estuary using a generic reactive-transport estuarine model. Green Technologies for Sustainable Water, December 1-5, 2019, Ho Chi Minh City, Vietnam. Poster
 
-8.T.A. Nguyen, et al., (2019). Modelling nutrient dynamics in a tropical estuary under human pressure: case study of the Saigon tidal River (Southern Vietnam). International Conference on Water Resources and Coastal Engineering, April 25, 2019, Da Nang City, Vietnam. Oral
+**8.**T.A. Nguyen, et al., (2019). Modelling nutrient dynamics in a tropical estuary under human pressure: case study of the Saigon tidal River (Southern Vietnam). International Conference on Water Resources and Coastal Engineering, April 25, 2019, Da Nang City, Vietnam. Oral
 
-9.T.A. Nguyen., et al., (2016). Analysis of antibiotic and pesticide residues in shrimp farm waters using passive sampling. SETAC Asia/Pacific Conference, September 16-19, 2016, Singapore. Oral
+**9.**T.A. Nguyen., et al., (2016). Analysis of antibiotic and pesticide residues in shrimp farm waters using passive sampling. SETAC Asia/Pacific Conference, September 16-19, 2016, Singapore. Oral
 
 ## References
 
