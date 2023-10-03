@@ -7,18 +7,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: sudo apt install -y pandoc lmodern wkhtmltopdf
-      - run: mkdir -p output
       - run: make test
       - run: make
-      - name: Move generated files to output folder
+      - uses: actions/upload-artifact@v3
+        with:
+          name: output
+          path: output/
+      - name: update file and push to remote
         run: |
-          find . -type f -not -path "./output/*" -exec mv {} output/ \;
-      - name: Configure Git
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-      - name: Commit and push changes
-        run: |
-          git add output/*
-          git commit -m "Add generated files to output folder"
-          git push
+          echo "Test push commit to the remote in the workflow" >> test.txt
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+        git add -A
+        git commit -m "Update CV"
+        git push
