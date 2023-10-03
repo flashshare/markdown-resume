@@ -10,18 +10,12 @@ jobs:
       - run: mkdir -p output
       - run: make test
       - run: make
-      - uses: actions/upload-artifact@v3
-        with:
-          name: output
-          overwrite: true
-          path: output/
-      - name: Move PDF to output folder
-        run: mv generated.pdf output/
-      - name: Commit and push PDF
+      - name: Move generated files to output folder
+        run: mv * output/
+      - name: Commit and push changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add output/sample.pdf
-          git add output/sample.html
-          git commit -m "Add generated CV"
-          git pus
+          git add output/*
+          git commit -m "Add generated files to output folder"
+          git push
