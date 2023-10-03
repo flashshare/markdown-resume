@@ -161,18 +161,6 @@ Mapping and spatial analysis with QGIS and ArcGIS.
 
 ## References
 
-### Julien Némery
+My references include supervisors of master's and PhD theses, as well as postdoctoral advisors.
 
-Professor-researcher.
-
-IGE, Grenoble-INP, France.
-
-E-mail: julien.nemery@grenoble-inp.fr
-
-### Nicolas Gratiot
-
-Research Fellow.
-
-IRD, IGE, Grenoble, France.
-
-E-mail: nicolas.gratiot@ird.fr
+Contact information for references is available upon request.
