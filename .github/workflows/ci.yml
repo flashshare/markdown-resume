@@ -13,10 +13,12 @@ jobs:
       - name: Move generated files to output folder
         run: |
           find . -type f -not -path "./output/*" -exec mv {} output/ \;
-      - name: Commit and push changes
+      - name: Configure Git
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+      - name: Commit and push changes
+        run: |
           git add output/*
           git commit -m "Add generated files to output folder"
           git push
