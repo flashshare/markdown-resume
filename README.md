@@ -2,7 +2,7 @@
 
 A tool that uses [pandoc](https://pandoc.org/MANUAL.html#pandocs-markdown) to generate a good looking CV in .pdf and .html formats from a vanilla markdown file.
 
-You can see a real-world CV built with the tool [**HERE**](sample.pdf).
+You can see a real-world [CV](https://github.com/flashshare/markdown-resume/blob/master/output/sample.pdf) built with the tool 
 
 Supports working with multiple markdown files at the same time (if, for example, you need your CV in multiple languages), and doesn't depend on jekyll nor LaTeX.
 
