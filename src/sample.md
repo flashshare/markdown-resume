@@ -15,8 +15,9 @@ style: default
 ## Contact
 
 Nguyễn Trường An, PhD\
-<truong-an.nguyen@inrae.fr>\
-EcoFlowS, INRAe, 5 Rue de la Doua, 69100 Villeurbanne\
+<truongan9393@yahoo.com>, <truong-an.nguyen@inrae.fr>\
+Work address: EcoFlowS, INRAe, 5 Rue de la Doua, 69100 Villeurbanne\
+Home address: Marcel Porte, 38100 Grenoble\
 [Phone: +33 662 04 98 13](tel:0662049813)
 
 ## Currently
@@ -49,13 +50,13 @@ Ho Chi Minh City University of Technology (HCMUT, Vietnam)
 
 ## Professional Experience
 
-#### Postdoctoral researcher (20 months)`05/2022-12/2023`
+#### Postdoctoral researcher (20 months)`05/2022-02/2024`
 
 INRAE, l'Institut national de recherche pour l’agriculture, l’alimentation et l’environnement. 
 
 Studying the evolution of carbonate system at Loire River by using high resolution datasets.
 
-#### Doctoral contract (36 months) `11/2018 – 11/2021`
+#### Doctoral contract (38 months) `11/2018 – 01/2022`
 
 Institute of Environmental Geosciences (IGE), France. 
 
