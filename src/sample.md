@@ -54,7 +54,7 @@ Ho Chi Minh City University of Technology (HCMUT, Vietnam)
 
 INRAE, l'Institut national de recherche pour l’agriculture, l’alimentation et l’environnement. 
 
-Studying the evolution of carbonate system at Loire River by using high resolution datasets.
+*Studying the evolution of carbonate system at Loire River by using high resolution datasets.*
 
 #### Doctoral contract (38 months) `11/2018 – 01/2022`
 
