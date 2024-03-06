@@ -15,9 +15,7 @@ style: default
 ## Contact
 
 Nguyễn Trường An, PhD\
-<truongan9393@yahoo.com>, <truong-an.nguyen@inrae.fr>\
-Work address: EcoFlowS, INRAe, 5 Rue de la Doua, 69100 Villeurbanne\
-Home address: Marcel Porte, 38100 Grenoble\
+<truongan9393@yahoo.com>
 [Phone: +33 662 04 98 13](tel:0662049813)
 
 ## Currently
@@ -58,7 +56,7 @@ INRAE, l'Institut national de recherche pour l’agriculture, l’alimentation e
 
 #### Job searching (3 months) `01/2022-04/2022`
 
-After completing my doctoral contract, I sought opportunities to apply my research expertise in a postdoctoral role in Europe.
+After completing my doctoral contract, I applied for severeal postdoctoral positions in Europe.
 
 #### Doctoral contract (38 months) `11/2018 – 01/2022`
 
@@ -66,10 +64,9 @@ Institute of Environmental Geosciences (IGE), France.
 
 *Water quality monitoring (nutrients, carbon, phytoplankton, greenhouse gases) and develop a biogeochemical model (1D reactive transport) for tropical estuaries.*
 
-#### PhD Application and Preparation (3 months) `06/2018-11/2018`
+#### PhD Application and vacation (5 months) `07/2018-10/2018`
 
-During this period, I focused on preparing and submitting applications for PhD programs, as well as engaging in necessary preparations for doctoral studies.
-This time also included a brief period of vacation.
+Preparing and submitting applications for PhD programs. This time also included a brief period of vacation.
 
 #### Master program (6 months internship) `08/2017-07/2018`
 
