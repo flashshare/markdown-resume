@@ -58,7 +58,7 @@ INRAE, l'Institut national de recherche pour l’agriculture, l’alimentation e
 
 After completing my doctoral contract, I applied for severeal postdoctoral positions in Europe.
 
-#### Doctoral contract (38 months) `11/2018 – 01/2022`
+#### Doctoral contract (37 months) `11/2018 – 12/2021`
 
 Institute of Environmental Geosciences (IGE), France. 
 
