@@ -54,7 +54,7 @@ INRAE, l'Institut national de recherche pour l’agriculture, l’alimentation e
 
 *Studying the evolution of carbonate system at Loire River by using high resolution datasets.*
 
-#### Job searching (3 months) `01/2022-04/2022`
+#### Job searching (4 months) `01/2022-04/2022`
 
 After completing my doctoral contract, I applied for severeal postdoctoral positions in Europe.
 
@@ -168,6 +168,26 @@ Mapping and spatial analysis with QGIS and ArcGIS.
 
 ## References
 
-My references include supervisors of master's and PhD theses, as well as postdoctoral advisors.
+### Julien Némery
 
-Contact information for references is available upon request.
+Professor-researcher.
+
+IGE, Grenoble-INP, France.
+
+E-mail: julien.nemery@grenoble-inp.fr
+
+### Nicolas Gratiot
+
+Research Fellow.
+
+IRD, IGE, Grenoble, France.
+
+E-mail: nicolas.gratiot@ird.fr
+
+### Florentina Moatar
+
+Senior researcher.
+
+INRAe, Lyon, France.
+
+E-mail: florentina.moatar@inrae.fr
