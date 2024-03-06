@@ -15,7 +15,7 @@ style: default
 ## Contact
 
 Nguyễn Trường An, PhD\
-<truongan9393@yahoo.com>
+<truongan9393@yahoo.com>\
 [Phone: +33 662 04 98 13](tel:0662049813)
 
 ## Currently
@@ -66,7 +66,7 @@ Institute of Environmental Geosciences (IGE), France.
 
 #### PhD Application and vacation (5 months) `07/2018-10/2018`
 
-Preparing and submitting applications for PhD programs. This time also included a brief period of vacation.
+Preparing and submitting applications for PhD programs in France. This time also included a brief period of vacation.
 
 #### Master program (6 months internship) `08/2017-07/2018`
 
