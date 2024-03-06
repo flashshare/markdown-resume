@@ -22,7 +22,7 @@ Home address: Marcel Porte, 38100 Grenoble\
 
 ## Currently
 
-I am a postdoc researcher with the interests in:
+I am looking for a postdoc position with the interests in:
 
 > Water quality modelling in rivers and estuaries.
 >
@@ -50,11 +50,15 @@ Ho Chi Minh City University of Technology (HCMUT, Vietnam)
 
 ## Professional Experience
 
-#### Postdoctoral researcher (20 months)`05/2022-02/2024`
+#### Postdoctoral researcher (20 months) `05/2022-02/2024`
 
 INRAE, l'Institut national de recherche pour l’agriculture, l’alimentation et l’environnement. 
 
 *Studying the evolution of carbonate system at Loire River by using high resolution datasets.*
+
+#### Job searching (3 months) `01/2022-04/2022`
+
+After completing my doctoral contract, I sought opportunities to apply my research expertise in a postdoctoral role in Europe.
 
 #### Doctoral contract (38 months) `11/2018 – 01/2022`
 
@@ -62,7 +66,12 @@ Institute of Environmental Geosciences (IGE), France.
 
 *Water quality monitoring (nutrients, carbon, phytoplankton, greenhouse gases) and develop a biogeochemical model (1D reactive transport) for tropical estuaries.*
 
-#### Master internship (6 months) `02/2018-07/2018`
+#### PhD Application and Preparation (3 months) `06/2018-11/2018`
+
+During this period, I focused on preparing and submitting applications for PhD programs, as well as engaging in necessary preparations for doctoral studies.
+This time also included a brief period of vacation.
+
+#### Master program (6 months internship) `08/2017-07/2018`
 
 Institute of Environmental Geosciences (IGE), France.
 
