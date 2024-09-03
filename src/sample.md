@@ -20,7 +20,7 @@ Nguyễn Trường An, PhD\
 
 ## Currently
 
-I am looking for a postdoc position with the interests in:
+I am a postdoc researcher with the interests in:
 
 > Water quality modelling in rivers and estuaries.
 >
@@ -48,7 +48,13 @@ Ho Chi Minh City University of Technology (HCMUT, Vietnam)
 
 ## Professional Experience
 
-#### Postdoctoral researcher (20 months) `05/2022-02/2024`
+#### Postdoctoral researcher (24 months) `05/2024-04/2026`
+
+Institut Géosciences Environnement (IGE), Institut de recherche pour le développement (IRD)
+
+*TROPECOS project, Past, Present, and Future Greenhouse gases of Tropical Estuaries*
+
+#### Postdoctoral researcher (22 months) `05/2022-02/2024`
 
 INRAE, l'Institut national de recherche pour l’agriculture, l’alimentation et l’environnement. 
 
