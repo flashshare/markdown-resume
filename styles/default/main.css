@@ -126,10 +126,7 @@ body {
   font: normal normal 400;
   font-size: 14pt;
   line-height: 1.3em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #333;
-  margin: 0 auto;
-  max-width: 800px;
+  font-family: Latin Modern Roman, Latin Modern Math, serif;
 }
 
 ul {
@@ -137,10 +134,11 @@ ul {
   left: 28%;
   width: 65%;
   margin-bottom: 10px;
+  /*margin-top: -0.5em;*/
 }
 
 li:before {
-  content: "-";
+  content: ""; /* Removed the dash */
   position: relative;
   left: -0.25em;
 }
@@ -154,6 +152,7 @@ li ul {
   position: relative;
   left: 0;
   width: 100%;
+  /* margin-top: 0.25em; */
 }
 
 h1,
@@ -161,25 +160,29 @@ h2,
 h3 {
   font-variant-caps: small-caps;
   font-weight: 500;
-  color: #333;
-  margin-bottom: 10px;
 }
 
 h1 {
   width: 80%;
   text-align: center;
-  font-size: 1.5em;
+  font-size: 1.5em; /* Adjusted size */
   line-height: 1em;
   position: relative;
+  left: 0%;
+  /* margin-top: 2em; */
 }
 
 h2 {
+  /* font-weight: bold; */
   font-size: 1.1em;
   color: #482009;
   margin-top: 12pt;
   position: relative;
   text-align: left;
   width: 20%;
+
+  height: 0px;
+  top: 0em;
 }
 
 h2 + h3 {
@@ -188,18 +191,21 @@ h2 + h3 {
 
 h3 {
   font-size: 1em;
+  /* color: #653a1a; */
   color: #AD7549;
   position: relative;
+  height: 0px;
   text-align: left;
   width: 18%;
   left: 2%;
   margin-top: 10pt;
 }
 
-p, h4 {
+p,h4 {
   position: relative;
   left: 23%;
   margin-bottom: 7pt;
+  margin-right: 0;
   width: 77%;
   text-align: justify;
   text-justify: inter-word;
@@ -212,12 +218,15 @@ h4 {
   text-align: left;
 }
 
+/* copied from code */
 h4 code {
+  /* font-weight: normal; */
   font-weight: bold;
   color: #424242;
   letter-spacing: 0px;
   font-size: 90%;
   line-height: calc(1.3em / 0.9);
+  margin-bottom: inherit;
   position: relative;
   text-align: right;
   float: right;
@@ -227,7 +236,7 @@ h4 code {
 }
 
 h2 + h4,
-h3 + h4 {
+h3 + h4{
   margin-top: 0px;
 }
 
@@ -238,6 +247,7 @@ blockquote {
   left: 25%;
   width: 70%;
   margin-bottom: 10px;
+  /* quotes: none; */
   font-style: italic;
 }
 
@@ -245,6 +255,10 @@ blockquote p {
   left: 0%;
   width: 100%;
 }
+
+/* blockquote:before { */
+/*   content: open-quote; */
+/* } */
 
 hr {
   margin-top: 1em;
@@ -256,7 +270,9 @@ header + hr {
 }
 
 a {
-  color: #0645ad;
+  color: inherit;
+  /* color: #346069; */
+  color: #063d7f;
   text-decoration: none;
 }
 
@@ -265,7 +281,7 @@ a:visited {
 }
 
 a:hover {
-  text-decoration: underline;
+  color: #0e1131;
 }
 
 em {
