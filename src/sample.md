@@ -123,54 +123,56 @@ Mapping and spatial analysis with QGIS and ArcGIS.
 
 ### Journals
 
-**1.**	Caracciolo, R., Escher, B. I., Lai, F. Y., Nguyen, T. A., Le, T. M. T., Schlichting, R., Tröger, R., Némery, J., Wiberg, K., Nguyen, P. D., & Baduel, C. (2023). Impact of a megacity on the water quality of a tropical estuary assessed by a combination of chemical analysis and in-vitro bioassays. Science of The Total Environment, 877(February), 162525. https://doi.org/10.1016/j.scitotenv.2023.162525
+Diamond, J. S., Truong, A. N., Abril, G., Bertuzzo, E., Chanudet, V., Lamouroux, R., & Moatar, F (2025). Inorganic carbon dynamics and their relation to autotrophic community regime shift over three decades in a large, alkaline river. Limnology and Oceanography. https://doi.org/10.1002/lno.70016
 
-**2.**	Garnier, J., Billen, G., G Laruelle, G., Le Gendre, R., Némery, J., Nguyen, A., Romero, E., Thieu, V., & Wei, X. (2023). Coastal marine system and estuary functioning is driven by the upstream river basin. In Reference Module in Earth Systems and Environmental Sciences (p. B9780323907989000093). Elsevier. https://doi.org/10.1016/B978-0-323-90798-9.00009-3
+Caracciolo, R., Escher, B. I., Lai, F. Y., Nguyen, T. A., Le, T. M. T., Schlichting, R., Tröger, R., Némery, J., Wiberg, K., Nguyen, P. D., & Baduel, C. (2023). Impact of a megacity on the water quality of a tropical estuary assessed by a combination of chemical analysis and in-vitro bioassays. Science of The Total Environment, 877(February), 162525. https://doi.org/10.1016/j.scitotenv.2023.162525
 
-**3.**	Nguyen, A. T., Dao, T. S., Strady, E., Nguyen, T. T. N., Aimé, J., Gratiot, N., & Némery, J. (2022). Phytoplankton characterization in a tropical tidal river impacted by a megacity: The case of the Saigon River (Southern Vietnam). Environmental Science and Pollution Research, 29(3), 4076–4092. https://doi.org/10.1007/s11356-021-15850-x
+Garnier, J., Billen, G., G Laruelle, G., Le Gendre, R., Némery, J., Nguyen, A., Romero, E., Thieu, V., & Wei, X. (2023). Coastal marine system and estuary functioning is driven by the upstream river basin. In Reference Module in Earth Systems and Environmental Sciences (p. B9780323907989000093). Elsevier. https://doi.org/10.1016/B978-0-323-90798-9.00009-3
 
-**4.**	Nguyen, A. T., Némery, J., Gratiot, N., Dao, T. S., Le, T. T. M., Baduel, C., & Garnier, J. (2022). Does eutrophication enhance greenhouse gas emissions in urbanized tropical estuaries? Environmental Pollution, 303(September 2021). https://doi.org/10.1016/j.envpol.2022.119105
+Nguyen, A. T., Dao, T. S., Strady, E., Nguyen, T. T. N., Aimé, J., Gratiot, N., & Némery, J. (2022). Phytoplankton characterization in a tropical tidal river impacted by a megacity: The case of the Saigon River (Southern Vietnam). Environmental Science and Pollution Research, 29(3), 4076–4092. https://doi.org/10.1007/s11356-021-15850-x
 
-**5.**	Camenen, B., Gratiot, N., Cohard, J. A., Gard, F., Tran, V. Q., Nguyen, A. T., Dramais, G., van Emmerik, T., & Némery, J. (2021). Monitoring discharge in a tidal river using water level observations: Application to the Saigon River, Vietnam. Science of the Total Environment, 761, 143195. https://doi.org/10.1016/j.scitotenv.2020.143195
+Nguyen, A. T., Némery, J., Gratiot, N., Dao, T. S., Le, T. T. M., Baduel, C., & Garnier, J. (2022). Does eutrophication enhance greenhouse gas emissions in urbanized tropical estuaries? Environmental Pollution, 303(September 2021). https://doi.org/10.1016/j.envpol.2022.119105
 
-**6.**	Nguyen, A. T., Némery, J., Gratiot, N., Garnier, J., Dao, T. S., Thieu, V., & Laruelle, G. G. (2021). Biogeochemical functioning of an urbanized tropical estuary: Implementing the generic C-GEM (reactive transport) model. Science of the Total Environment, 784, 147261. https://doi.org/10.1016/j.scitotenv.2021.147261
+Camenen, B., Gratiot, N., Cohard, J. A., Gard, F., Tran, V. Q., Nguyen, A. T., Dramais, G., van Emmerik, T., & Némery, J. (2021). Monitoring discharge in a tidal river using water level observations: Application to the Saigon River, Vietnam. Science of the Total Environment, 761, 143195. https://doi.org/10.1016/j.scitotenv.2020.143195
 
-**7.**	Nguyen, T. T. N., Némery, J., Gratiot, N., Garnier, J., Strady, E., Nguyen, D. P., Tran, V. Q., Nguyen, A. T., Cao, S. T., & Huynh, T. P. T. (2020). Nutrient budgets in the Saigon–Dongnai River basin: Past to future inputs from the developing Ho Chi Minh megacity (Vietnam). River Research and Applications, 36(6), 974–990. https://doi.org/10.1002/rra.3552
+Nguyen, A. T., Némery, J., Gratiot, N., Garnier, J., Dao, T. S., Thieu, V., & Laruelle, G. G. (2021). Biogeochemical functioning of an urbanized tropical estuary: Implementing the generic C-GEM (reactive transport) model. Science of the Total Environment, 784, 147261. https://doi.org/10.1016/j.scitotenv.2021.147261
 
-**8.**	Noncent, D., Strady, E., Némery, J., Thanh-Nho, N., Denis, H., Mourier, B., Babut, M., Nguyen, T. A., Nguyen, T. N. T., Marchand, C., Desmet, M., Tran, A. T., Aimé, J., Gratiot, N., Dinh, Q. T., & Nguyen, P. D. (2020). Sedimentological and geochemical data in bed sediments from a tropical river-estuary system impacted by a developing megacity, Ho Chi Minh City—Vietnam. Data in Brief, 31, 105938. https://doi.org/10.1016/j.dib.2020.105938
+Nguyen, T. T. N., Némery, J., Gratiot, N., Garnier, J., Strady, E., Nguyen, D. P., Tran, V. Q., Nguyen, A. T., Cao, S. T., & Huynh, T. P. T. (2020). Nutrient budgets in the Saigon–Dongnai River basin: Past to future inputs from the developing Ho Chi Minh megacity (Vietnam). River Research and Applications, 36(6), 974–990. https://doi.org/10.1002/rra.3552
 
-**9.**	Nguyen, T. T. N., Némery, J., Gratiot, N., Garnier, J., Strady, E., Tran, V. Q., Nguyen, A. T., Nguyen, T. N. T., Golliet, C., & Aimé, J. (2019). Phosphorus adsorption/desorption processes in the tropical Saigon River estuary (Southern Vietnam) impacted by a megacity. Estuarine, Coastal and Shelf Science, 227(August), 106321. https://doi.org/10.1016/j.ecss.2019.106321
+Noncent, D., Strady, E., Némery, J., Thanh-Nho, N., Denis, H., Mourier, B., Babut, M., Nguyen, T. A., Nguyen, T. N. T., Marchand, C., Desmet, M., Tran, A. T., Aimé, J., Gratiot, N., Dinh, Q. T., & Nguyen, P. D. (2020). Sedimentological and geochemical data in bed sediments from a tropical river-estuary system impacted by a developing megacity, Ho Chi Minh City—Vietnam. Data in Brief, 31, 105938. https://doi.org/10.1016/j.dib.2020.105938
 
-**10.**	Nguyen, T. T. N., Némery, J., Gratiot, N., Strady, E., Tran, V. Q., Nguyen, A. T., Aimé, J., & Peyne, A. (2019). Nutrient dynamics and eutrophication assessment in the tropical river system of Saigon – Dongnai (southern Vietnam). Science of the Total Environment, 653, 370–383. https://doi.org/10.1016/j.scitotenv.2018.10.319
+Nguyen, T. T. N., Némery, J., Gratiot, N., Garnier, J., Strady, E., Tran, V. Q., Nguyen, A. T., Nguyen, T. N. T., Golliet, C., & Aimé, J. (2019). Phosphorus adsorption/desorption processes in the tropical Saigon River estuary (Southern Vietnam) impacted by a megacity. Estuarine, Coastal and Shelf Science, 227(August), 106321. https://doi.org/10.1016/j.ecss.2019.106321
 
-**11.**	Nguyen, T. A. (2018). Antibiotics And Pesticides In Water And Sediments From Intensive Shrimp Farms In Southern Vietnam. Vietnam Journal of Science and Technology, 54, 146. https://doi.org/10.15625/2525-2518/54/4B/12035
+Nguyen, T. T. N., Némery, J., Gratiot, N., Strady, E., Tran, V. Q., Nguyen, A. T., Aimé, J., & Peyne, A. (2019). Nutrient dynamics and eutrophication assessment in the tropical river system of Saigon – Dongnai (southern Vietnam). Science of the Total Environment, 653, 370–383. https://doi.org/10.1016/j.scitotenv.2018.10.319
 
-**12.**	Dinh, Q. T., Nguyen, T. A., Moreau-Guigon, E., Alliot, F., Teil, M. J., Blanchard, M., & Chevreuil, M. (2017). Trace-Level Determination of Oxolinic Acid and Flumequine in Soil, River Bed Sediment, and River Water Using Microwave-Assisted Extraction and High-Performance Liquid Chromatography with Fluorimetric Detection. Soil and Sediment Contamination, 26(3), 247–258. https://doi.org/10.1080/15320383.2017.1276154
+Nguyen, T. A. (2018). Antibiotics And Pesticides In Water And Sediments From Intensive Shrimp Farms In Southern Vietnam. Vietnam Journal of Science and Technology, 54, 146. https://doi.org/10.15625/2525-2518/54/4B/12035
 
-**13.**	Nguyen, A. T., Le, T. M. T., Tran, V. Q., Truong, V. N., Nguyen, L. T., Nguyen, P. H. T., & Nguyen, T. H. T. (2017). Effect of oxygen states in horizontal subsurface flow constructed wetlands on the removal of organic matter, nutrients, some metals and octylphenol. VNUHCM Journal of Science and Technology Development, 20(K9), Article K9. https://doi.org/10.32508/stdj.v20iK9.1676
+Dinh, Q. T., Nguyen, T. A., Moreau-Guigon, E., Alliot, F., Teil, M. J., Blanchard, M., & Chevreuil, M. (2017). Trace-Level Determination of Oxolinic Acid and Flumequine in Soil, River Bed Sediment, and River Water Using Microwave-Assisted Extraction and High-Performance Liquid Chromatography with Fluorimetric Detection. Soil and Sediment Contamination, 26(3), 247–258. https://doi.org/10.1080/15320383.2017.1276154
 
-**14.**	Nguyen, T. A., Tam, L. T. M., Viet, T. Q., Viet, T. N., Luan, N. T., Minh, N. V., Trang, N. T. H., & Tuc, D. Q. (2017). Recommendation of optimal design and operation parameters for constructed wetland for sludge treatment based on the effect of hydraulic retention time, sludge loading rate and vegetation. VNUHCM Journal of Science and Technology Development, 20(K8), Article K8. https://doi.org/10.32508/stdj.v20iK8.1669
+Nguyen, A. T., Le, T. M. T., Tran, V. Q., Truong, V. N., Nguyen, L. T., Nguyen, P. H. T., & Nguyen, T. H. T. (2017). Effect of oxygen states in horizontal subsurface flow constructed wetlands on the removal of organic matter, nutrients, some metals and octylphenol. VNUHCM Journal of Science and Technology Development, 20(K9), Article K9. https://doi.org/10.32508/stdj.v20iK9.1676
+
+Nguyen, T. A., Tam, L. T. M., Viet, T. Q., Viet, T. N., Luan, N. T., Minh, N. V., Trang, N. T. H., & Tuc, D. Q. (2017). Recommendation of optimal design and operation parameters for constructed wetland for sludge treatment based on the effect of hydraulic retention time, sludge loading rate and vegetation. VNUHCM Journal of Science and Technology Development, 20(K8), Article K8. https://doi.org/10.32508/stdj.v20iK8.1669
 
 
 ### Conferences
 
-**1.**T.A. Nguyen, et al., (2022). Spatial and temporal variation of greenhouse gas emissions in an urbanized tropical estuary (the Saigon River, Vietnam). ECSA 59 Using the best scientific knowledge for the sustainable management of estuaries and coastal seas, September 5-8, 2022, Kursaal, San Sebastian, Spain. Poster
+T.A. Nguyen, et al., (2022). Spatial and temporal variation of greenhouse gas emissions in an urbanized tropical estuary (the Saigon River, Vietnam). ECSA 59 Using the best scientific knowledge for the sustainable management of estuaries and coastal seas, September 5-8, 2022, Kursaal, San Sebastian, Spain. Poster
 
-**2.**T.A. Nguyen, et al., (2022). Eutrophication management scenarios in the Saigon River by using C-GEM, an estuarine biogeochemical model. ECSA 59 Using the best scientific knowledge for the sustainable management of estuaries and coastal seas, September 5-8, 2022, Kursaal, San Sebastian, Spain. Poster
+T.A. Nguyen, et al., (2022). Eutrophication management scenarios in the Saigon River by using C-GEM, an estuarine biogeochemical model. ECSA 59 Using the best scientific knowledge for the sustainable management of estuaries and coastal seas, September 5-8, 2022, Kursaal, San Sebastian, Spain. Poster
 
-**3.**T.A. Nguyen, et al., (2022). Impact of anthropogenic inputs on greenhouse gas emissions in the tropical Saigon River Estuary. International Symposium on Water Sustainability & Green Technologies, November 25-26, 2022, Ho Chi Minh City, Vietnam. Poster
+T.A. Nguyen, et al., (2022). Impact of anthropogenic inputs on greenhouse gas emissions in the tropical Saigon River Estuary. International Symposium on Water Sustainability & Green Technologies, November 25-26, 2022, Ho Chi Minh City, Vietnam. Poster
 
-**4.**T.A. Nguyen, et al., (2022). Modeling the seasonal nutrients dynamics and phytoplankton development in Saigon River Estuary, Vietnam. International Symposium on Ecohydraulics, July 4-8, 2022, Lyon, France. Poster
+T.A. Nguyen, et al., (2022). Modeling the seasonal nutrients dynamics and phytoplankton development in Saigon River Estuary, Vietnam. International Symposium on Ecohydraulics, July 4-8, 2022, Lyon, France. Poster
 
-**5.**T.A. Nguyen, et al., (2020). Modelling scenarios by C-GEM, an estuarine biogeochemical model. International Conference on Water, Megacities and Global Change, December 1-4, 2020, Paris (Web-Seminar), Vietnam. Oral
+T.A. Nguyen, et al., (2020). Modelling scenarios by C-GEM, an estuarine biogeochemical model. International Conference on Water, Megacities and Global Change, December 1-4, 2020, Paris (Web-Seminar), Vietnam. Oral
 
-**6.**T.A. Nguyen, et al., (2020). Evaluating estuarine responses to modification of nutrient loads from megacity by a generic reactive-transport model. International Symposium on Ecohydraulics, December 23-24, 2019, Lyon, France. Oral
+T.A. Nguyen, et al., (2020). Evaluating estuarine responses to modification of nutrient loads from megacity by a generic reactive-transport model. International Symposium on Ecohydraulics, December 23-24, 2019, Lyon, France. Oral
 
-**7.**T.A. Nguyen, et al., (2019). Self‐purification capacity of a tropical estuary using a generic reactive-transport estuarine model. Green Technologies for Sustainable Water, December 1-5, 2019, Ho Chi Minh City, Vietnam. Poster
+T.A. Nguyen, et al., (2019). Self‐purification capacity of a tropical estuary using a generic reactive-transport estuarine model. Green Technologies for Sustainable Water, December 1-5, 2019, Ho Chi Minh City, Vietnam. Poster
 
-**8.**T.A. Nguyen, et al., (2019). Modelling nutrient dynamics in a tropical estuary under human pressure: case study of the Saigon tidal River (Southern Vietnam). International Conference on Water Resources and Coastal Engineering, April 25, 2019, Da Nang City, Vietnam. Oral
+T.A. Nguyen, et al., (2019). Modelling nutrient dynamics in a tropical estuary under human pressure: case study of the Saigon tidal River (Southern Vietnam). International Conference on Water Resources and Coastal Engineering, April 25, 2019, Da Nang City, Vietnam. Oral
 
-**9.**T.A. Nguyen., et al., (2016). Analysis of antibiotic and pesticide residues in shrimp farm waters using passive sampling. SETAC Asia/Pacific Conference, September 16-19, 2016, Singapore. Oral
+T.A. Nguyen., et al., (2016). Analysis of antibiotic and pesticide residues in shrimp farm waters using passive sampling. SETAC Asia/Pacific Conference, September 16-19, 2016, Singapore. Oral
 
 ## References
 
