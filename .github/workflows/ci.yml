@@ -9,11 +9,11 @@ jobs:
       - run: sudo apt install -y pandoc lmodern wkhtmltopdf
       - run: make test
       - run: make
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: output
           path: output/
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: output
           path: output/
