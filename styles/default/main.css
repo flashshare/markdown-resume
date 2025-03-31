@@ -130,7 +130,6 @@ body {
   font-family: Latin Modern Roman, Latin Modern Math, serif;
 }
 
-
 ul {
   position: relative;
   left: 28%;
@@ -166,14 +165,13 @@ h3 {
 
 h1 {
   width: 80%;
-  text-align: left;
-  font-size: 2em;
+  text-align: center;
+  font-size: 1.5em; /* Adjusted size */
   line-height: 1em;
   position: relative;
   left: 0%;
   /* margin-top: 2em; */
 }
-
 
 h2 {
   /* font-weight: bold; */
@@ -272,7 +270,6 @@ header + hr {
   margin-top: 0.2em;
 }
 
-
 a {
   color: inherit;
   /* color: #346069; */
@@ -299,4 +296,8 @@ strong {
 #ghbutton {
   display: none;
   visibility: hidden;
+}
+
+ol {
+    list-style-type: decimal; /* This will add numbers to ordered lists */
 }
