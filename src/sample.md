@@ -122,6 +122,7 @@ Mapping and spatial analysis with QGIS and ArcGIS.
 ## Publications
 
 ### Journals
+
 1. Diamond, J. S., Truong, A. N., Abril, G., Bertuzzo, E., Chanudet, V., Lamouroux, R., & Moatar, F (2025). Inorganic carbon dynamics and their relation to autotrophic community regime shift over three decades in a large, alkaline river. Limnology and Oceanography. [https://doi.org/10.1002/lno.70016](https://doi.org/10.1002/lno.70016)
 
 2. Caracciolo, R., Escher, B. I., Lai, F. Y., Nguyen, T. A., Le, T. M. T., Schlichting, R., Tröger, R., Némery, J., Wiberg, K., Nguyen, P. D., & Baduel, C. (2023). Impact of a megacity on the water quality of a tropical estuary assessed by a combination of chemical analysis and in-vitro bioassays. Science of The Total Environment, 877(February), 162525. [https://doi.org/10.1016/j.scitotenv.2023.162525](https://doi.org/10.1016/j.scitotenv.2023.162525)
