@@ -94,14 +94,8 @@ header,
 hgroup,
 menu,
 nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
+section {
+display: block;
 margin: 0;
 padding: 0;
 border: 0;
@@ -151,12 +145,6 @@ position: relative;
 left: 28%;
 width: 65%;
 margin-bottom: 10px;
-
-}
-li:before {
-content: ""; 
-position: relative;
-left: -0.25em;
 }
 li {
 padding-left: 1.25em;
@@ -166,7 +154,6 @@ li ul {
 position: relative;
 left: 0;
 width: 100%;
-
 }
 h1,
 h2,
@@ -177,14 +164,12 @@ font-weight: 500;
 h1 {
 width: 80%;
 text-align: center;
-font-size: 1.5em; 
+font-size: 1.5em;
 line-height: 1em;
 position: relative;
 left: 0%;
-
 }
 h2 {
-
 font-size: 1.1em;
 color: #482009;
 margin-top: 12pt;
@@ -199,20 +184,17 @@ margin-top: 1.5em;
 }
 h3 {
 font-size: 1em;
-
 color: #AD7549;
 position: relative;
-height: 0px;
 text-align: left;
 width: 18%;
 left: 2%;
 margin-top: 10pt;
 }
-p,h4 {
+p, h4 {
 position: relative;
 left: 23%;
 margin-bottom: 7pt;
-margin-right: 0;
 width: 77%;
 text-align: justify;
 text-justify: inter-word;
@@ -223,9 +205,7 @@ font-weight: bold;
 margin-top: 10pt;
 text-align: left;
 }
-
 h4 code {
-
 font-weight: bold;
 color: #424242;
 letter-spacing: 0px;
@@ -240,7 +220,7 @@ right: 0px;
 margin-left: 10px;
 }
 h2 + h4,
-h3 + h4{
+h3 + h4 {
 margin-top: 0px;
 }
 blockquote {
@@ -250,16 +230,12 @@ position: relative;
 left: 25%;
 width: 70%;
 margin-bottom: 10px;
-
 font-style: italic;
 }
 blockquote p {
 left: 0%;
 width: 100%;
 }
-
-
-
 hr {
 margin-top: 1em;
 margin-bottom: 1em;
@@ -269,7 +245,6 @@ margin-top: 0.2em;
 }
 a {
 color: inherit;
-
 color: #063d7f;
 text-decoration: none;
 }
