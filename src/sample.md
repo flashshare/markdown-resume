@@ -32,19 +32,19 @@ I am a postdoc researcher with the interests in:
 
 University of Grenoble Alpes (UGA, France)
 
-*Biogeochemical modeling in a tropical estuary and eutrophication management*.
+*Biogeochemical modeling in a tropical estuary and eutrophication management*
 
 #### Master degree in Hydraulic `09/2017-08/2018`
 
 Grenoble Institute of Technology (Grenoble INP, France)
 
-*Modeling nutrient dynamics in the Saigon River Estuary, Vietnam*.
+*Modeling nutrient dynamics in the Saigon River Estuary, Vietnam*
 
 #### Bachelor degree in Environmental management `09/2011-02/2016`
 
 Ho Chi Minh City University of Technology (HCMUT, Vietnam)
 
-*Antibiotic pollution in the Saigon River, Vietnam*.
+*Antibiotic pollution in the Saigon River, Vietnam*
 
 ## Professional Experience
 
@@ -56,59 +56,59 @@ Institut Géosciences Environnement (IGE), Institut de recherche pour le dévelo
 
 #### Postdoctoral researcher (22 months) `05/2022-02/2024`
 
-INRAE, l'Institut national de recherche pour l’agriculture, l’alimentation et l’environnement. 
+INRAE, l'Institut national de recherche pour l’agriculture, l’alimentation et l’environnement
 
-*Studying the evolution of carbonate system at Loire River by using high resolution datasets.*
+*Studying the evolution of carbonate system at Loire River by using high resolution datasets*
 
 #### Job searching (4 months) `01/2022-04/2022`
 
-After completing my doctoral contract, I applied for severeal postdoctoral positions in Europe.
+After completing my doctoral contract, I applied for severeal postdoctoral positions in Europe
 
 #### Doctoral contract (37 months) `11/2018 – 12/2021`
 
 Institute of Environmental Geosciences (IGE), France. 
 
-*Water quality monitoring (nutrients, carbon, phytoplankton, greenhouse gases) and develop a biogeochemical model (1D reactive transport) for tropical estuaries.*
+*Water quality monitoring (nutrients, carbon, phytoplankton, greenhouse gases) and develop a biogeochemical model (1D reactive transport) for tropical estuaries*
 
 #### PhD Application and vacation (5 months) `07/2018-10/2018`
 
-Preparing and submitting applications for PhD programs in France. This time also included a brief period of vacation.
+Preparing and submitting applications for PhD programs in France, included a brief period of vacation.
 
 #### Master program (6 months internship) `08/2017-07/2018`
 
 Institute of Environmental Geosciences (IGE), France.
 
-*Implementation of a nutrient dynamics model for the Saigon River using C language.*
+*Implementation of a nutrient dynamics model for the Saigon River using C language*
 
 #### Principal Investigator (6 months) `12/2016-08/2017`
 
 Young Investigator Project, HCMUT, Vietnam
 
-*Design of a pilot scale constructed wetland and analysis of water samples.*
+*Design of a pilot scale constructed wetland and analysis of water samples*
 
 #### Lab technician (18 months) `12/2015-06/2017`
 
 Asian Center for Water Research (CARE-RESCIF), Vietnam.
 
-*Water sampling and operation of ICP-OES analyzer, TOC-V.*
+*Water sampling and operation of ICP-OES analyzer, TOC-V*
 
 #### Bachelor internship (6 months) `06/2015-12/2015`
 
-Project: development of "passive sampling" for the analysis of antibiotics in river.
+Project: development of "passive sampling" for the analysis of antibiotics in river
 
-*Sampling and pretreatment of samples for antibiotics measurement.*
+*Sampling and pretreatment of samples for antibiotics measurement*
 
 ## Competences
 
 ### Numerical
 
-Extensive knowledge in Python, C & C++ languages for water quality modelling.
+Extensive knowledge in Python, C & C++ languages for water quality modelling
 
 ### Data analysis Visualization
 
-Data analysis and statistical analysis with Python and R on large datasets.
+Data analysis and statistical analysis with Python and R on large datasets
 
-Mapping and spatial analysis with QGIS and ArcGIS.
+Mapping and spatial analysis with QGIS and ArcGIS
 
 ### Languages
 
