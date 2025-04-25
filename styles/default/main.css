@@ -110,7 +110,6 @@ section {
 body {
   line-height: 1;
 }
-ol,
 ul {
   list-style: none;
 }
@@ -139,7 +138,17 @@ ul {
   /*margin-top: -0.5em;*/
 }
 
-li:before {
+/* Added ol styling for numbered lists */
+ol {
+  position: relative;
+  left: 28%; /* Match ul positioning */
+  width: 65%; /* Match ul positioning */
+  margin-bottom: 10px; /* Match ul positioning */
+  list-style: decimal; /* Ensure decimal numbering */
+  padding-left: 1.25em; /* Add padding for numbers */
+}
+
+ul li:before {
   content: "-";
   position: relative;
   left: -0.25em;
@@ -148,6 +157,21 @@ li:before {
 li {
   padding-left: 1.25em;
   text-indent: -1.25em;
+}
+
+/* Ensure ol li items don't have the dash and adjust indentation */
+ol li {
+  padding-left: 0; /* Reset padding */
+  text-indent: 0; /* Reset indent */
+  margin-bottom: 5pt; /* Add some space between publication entries */
+}
+
+/* Ensure paragraphs inside ol li don't inherit the general p indentation */
+ol li p {
+  position: static; /* Reset position */
+  left: auto; /* Reset left */
+  width: auto; /* Reset width */
+  margin-bottom: 0; /* Reset margin */
 }
 
 li ul {
