@@ -131,7 +131,6 @@ display: block;
 body {
 line-height: 1;
 }
-ol,
 ul {
 list-style: none;
 }
@@ -154,7 +153,16 @@ width: 65%;
 margin-bottom: 10px;
 
 }
-li:before {
+
+ol {
+position: relative;
+left: 28%; 
+width: 65%; 
+margin-bottom: 10px; 
+list-style: decimal; 
+padding-left: 1.25em; 
+}
+ul li:before {
 content: "-";
 position: relative;
 left: -0.25em;
@@ -162,6 +170,19 @@ left: -0.25em;
 li {
 padding-left: 1.25em;
 text-indent: -1.25em;
+}
+
+ol li {
+padding-left: 0; 
+text-indent: 0; 
+margin-bottom: 5pt; 
+}
+
+ol li p {
+position: static; 
+left: auto; 
+width: auto; 
+margin-bottom: 0; 
 }
 li ul {
 position: relative;
