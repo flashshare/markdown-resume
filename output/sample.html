@@ -94,8 +94,14 @@ header,
 hgroup,
 menu,
 nav,
-section {
-display: block;
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
 margin: 0;
 padding: 0;
 border: 0;
@@ -138,6 +144,7 @@ body {
 font: normal normal 400;
 font-size: 14pt;
 line-height: 1.3em;
+
 font-family: Latin Modern Roman, Latin Modern Math, serif;
 }
 ul {
@@ -145,6 +152,12 @@ position: relative;
 left: 28%;
 width: 65%;
 margin-bottom: 10px;
+
+}
+li:before {
+content: "-";
+position: relative;
+left: -0.25em;
 }
 li {
 padding-left: 1.25em;
@@ -154,6 +167,7 @@ li ul {
 position: relative;
 left: 0;
 width: 100%;
+
 }
 h1,
 h2,
@@ -163,13 +177,15 @@ font-weight: 500;
 }
 h1 {
 width: 80%;
-text-align: center;
-font-size: 1.5em;
+text-align: left;
+font-size: 2em;
 line-height: 1em;
 position: relative;
 left: 0%;
+
 }
 h2 {
+
 font-size: 1.1em;
 color: #482009;
 margin-top: 12pt;
@@ -184,17 +200,20 @@ margin-top: 1.5em;
 }
 h3 {
 font-size: 1em;
+
 color: #AD7549;
 position: relative;
+height: 0px;
 text-align: left;
 width: 18%;
 left: 2%;
 margin-top: 10pt;
 }
-p, h4 {
+p,h4 {
 position: relative;
 left: 23%;
 margin-bottom: 7pt;
+margin-right: 0;
 width: 77%;
 text-align: justify;
 text-justify: inter-word;
@@ -205,7 +224,9 @@ font-weight: bold;
 margin-top: 10pt;
 text-align: left;
 }
+
 h4 code {
+
 font-weight: bold;
 color: #424242;
 letter-spacing: 0px;
@@ -220,7 +241,7 @@ right: 0px;
 margin-left: 10px;
 }
 h2 + h4,
-h3 + h4 {
+h3 + h4{
 margin-top: 0px;
 }
 blockquote {
@@ -230,12 +251,16 @@ position: relative;
 left: 25%;
 width: 70%;
 margin-bottom: 10px;
+
 font-style: italic;
 }
 blockquote p {
 left: 0%;
 width: 100%;
 }
+
+
+
 hr {
 margin-top: 1em;
 margin-bottom: 1em;
@@ -245,6 +270,7 @@ margin-top: 0.2em;
 }
 a {
 color: inherit;
+
 color: #063d7f;
 text-decoration: none;
 }
@@ -263,15 +289,6 @@ font-weight: bolder;
 #ghbutton {
 display: none;
 visibility: hidden;
-}
-ol {
-list-style-type: decimal; 
-}
-
-@page {
-@bottom-right {
-content: "Page " counter(page) " of " counter(pages);
-}
 }</style>
 </head>
 <body>
@@ -295,16 +312,16 @@ processes.</p>
 thesis in the Environmental Science <code>11/2018-12/2021</code></h4>
 <p>University of Grenoble Alpes (UGA, France)</p>
 <p><em>Biogeochemical modeling in a tropical estuary and eutrophication
-management</em>.</p>
+management</em></p>
 <h4 id="master-degree-in-hydraulic-092017-082018">Master degree in
 Hydraulic <code>09/2017-08/2018</code></h4>
 <p>Grenoble Institute of Technology (Grenoble INP, France)</p>
 <p><em>Modeling nutrient dynamics in the Saigon River Estuary,
-Vietnam</em>.</p>
+Vietnam</em></p>
 <h4 id="bachelor-degree-in-environmental-management-092011-022016">Bachelor
 degree in Environmental management <code>09/2011-02/2016</code></h4>
 <p>Ho Chi Minh City University of Technology (HCMUT, Vietnam)</p>
-<p><em>Antibiotic pollution in the Saigon River, Vietnam</em>.</p>
+<p><em>Antibiotic pollution in the Saigon River, Vietnam</em></p>
 <h2 id="professional-experience">Professional Experience</h2>
 <h4 id="postdoctoral-researcher-24-months-052024-042026">Postdoctoral
 researcher (24 months) <code>05/2024-04/2026</code></h4>
@@ -315,51 +332,51 @@ Tropical Estuaries</em></p>
 <h4 id="postdoctoral-researcher-22-months-052022-022024">Postdoctoral
 researcher (22 months) <code>05/2022-02/2024</code></h4>
 <p>INRAE, l’Institut national de recherche pour l’agriculture,
-l’alimentation et l’environnement.</p>
+l’alimentation et l’environnement</p>
 <p><em>Studying the evolution of carbonate system at Loire River by
-using high resolution datasets.</em></p>
+using high resolution datasets</em></p>
 <h4 id="job-searching-4-months-012022-042022">Job searching (4 months)
 <code>01/2022-04/2022</code></h4>
 <p>After completing my doctoral contract, I applied for severeal
-postdoctoral positions in Europe.</p>
+postdoctoral positions in Europe</p>
 <h4 id="doctoral-contract-37-months-112018-122021">Doctoral contract (37
 months) <code>11/2018 – 12/2021</code></h4>
 <p>Institute of Environmental Geosciences (IGE), France.</p>
 <p><em>Water quality monitoring (nutrients, carbon, phytoplankton,
 greenhouse gases) and develop a biogeochemical model (1D reactive
-transport) for tropical estuaries.</em></p>
+transport) for tropical estuaries</em></p>
 <h4 id="phd-application-and-vacation-5-months-072018-102018">PhD
 Application and vacation (5 months) <code>07/2018-10/2018</code></h4>
-<p>Preparing and submitting applications for PhD programs in France.
-This time also included a brief period of vacation.</p>
+<p>Preparing and submitting applications for PhD programs in France,
+included a brief period of vacation.</p>
 <h4 id="master-program-6-months-internship-082017-072018">Master program
 (6 months internship) <code>08/2017-07/2018</code></h4>
 <p>Institute of Environmental Geosciences (IGE), France.</p>
 <p><em>Implementation of a nutrient dynamics model for the Saigon River
-using C language.</em></p>
+using C language</em></p>
 <h4 id="principal-investigator-6-months-122016-082017">Principal
 Investigator (6 months) <code>12/2016-08/2017</code></h4>
 <p>Young Investigator Project, HCMUT, Vietnam</p>
 <p><em>Design of a pilot scale constructed wetland and analysis of water
-samples.</em></p>
+samples</em></p>
 <h4 id="lab-technician-18-months-122015-062017">Lab technician (18
 months) <code>12/2015-06/2017</code></h4>
 <p>Asian Center for Water Research (CARE-RESCIF), Vietnam.</p>
-<p><em>Water sampling and operation of ICP-OES analyzer, TOC-V.</em></p>
+<p><em>Water sampling and operation of ICP-OES analyzer, TOC-V</em></p>
 <h4 id="bachelor-internship-6-months-062015-122015">Bachelor internship
 (6 months) <code>06/2015-12/2015</code></h4>
 <p>Project: development of “passive sampling” for the analysis of
-antibiotics in river.</p>
+antibiotics in river</p>
 <p><em>Sampling and pretreatment of samples for antibiotics
-measurement.</em></p>
+measurement</em></p>
 <h2 id="competences">Competences</h2>
 <h3 id="numerical">Numerical</h3>
 <p>Extensive knowledge in Python, C &amp; C++ languages for water
-quality modelling.</p>
+quality modelling</p>
 <h3 id="data-analysis-visualization">Data analysis Visualization</h3>
 <p>Data analysis and statistical analysis with Python and R on large
-datasets.</p>
-<p>Mapping and spatial analysis with QGIS and ArcGIS.</p>
+datasets</p>
+<p>Mapping and spatial analysis with QGIS and ArcGIS</p>
 <h3 id="languages">Languages</h3>
 <p><strong>Vietnamese</strong> (native)</p>
 <p><strong>English</strong> (proficient, level B2)</p>
